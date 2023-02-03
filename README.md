@@ -1,3 +1,3 @@
 # UMBC Data Science Capstone Project
-**/Author:** Swapan Gupta Chollati
-**/Semester:** Spring 2023
+**Author:** Swapan Gupta Chollati/
+**Semester:** Spring 2023
