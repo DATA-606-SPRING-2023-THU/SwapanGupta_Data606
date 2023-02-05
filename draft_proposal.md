@@ -25,7 +25,7 @@ The dataset has 1000 units of analysis
 
 #### _6.What variables/measures do you plan to use in your analysis_
 
-** Below are the variables I am considering for analysis:
+** Below are the variables I am considering for analysis: **
 - Age
 - Gender
 - Air Pollution 
