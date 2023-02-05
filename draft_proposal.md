@@ -11,9 +11,9 @@ These days, number of patients having lung related problems are increasing. And 
 
 #### _3. What questions do you have in mind and would like to answer?_
 
-What kind of models can be used?
-What measure can I use to compare the models?
-How can I handle data with more dimensionality?
+- What kind of models can be used?
+- What measure can I use to compare the models?
+- How can I handle data with more dimensionality?
 
 #### _4. Where do you get the data to analyze and help answer your questions_
 ##### DataSource: https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
