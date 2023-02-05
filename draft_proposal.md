@@ -58,5 +58,11 @@ I will use classification techniques like:
 - SVM
 
  I will compare each algorithm and select the best one.
+ 
+ #### _8.How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?_
+My plan of action is to analyze the data first, research various types of ML models and come up with the best suited ones and implement a solution for the selected problem.
+
+#### _9.What outcomes do you intend to achieve_
+I intend to observe and learn how ML model creation process looks, how to research various models, create them and select the best one out of them.
 
 
