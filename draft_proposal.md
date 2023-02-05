@@ -66,7 +66,9 @@ My plan of action is to analyze the data first, research various types of ML mod
 
 
 #### _9.What outcomes do you intend to achieve_
-I intend to observe and learn how ML model creation process looks, how to research various models, create them and select the best one out of them.
+- I intend to observe and learn how ML model creation process looks, how to research various models, create them and select the best one out of them.
+- To perform and achieve Exploratory Data Analysis(EDA).
+
 
 ## References
 - https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
