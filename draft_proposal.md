@@ -58,7 +58,8 @@ I will use classification techniques like:
 - Decision tree etc
 - SVM
 
- I will compare each algorithm and select the best one.
+ I will compare each algorithm and select the best one and the evaluation metrics would be accuracy. I am also planing to predict the best model using Confusion Matrix.
+ 
  
  #### _8.How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?_
 My plan of action is to analyze the data first, research various types of ML models and come up with the best suited ones and implement a solution for the selected problem.
