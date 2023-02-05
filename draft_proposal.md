@@ -55,7 +55,7 @@ I will also be comparing the attributes present in the Dataset based on Gentic R
 I will be using dimensionality reduction techniques as the number of columns are more and rows a are less
 I will use classification techniques like:
 - Logistic regression
-- Decision tree etc
+- Decision tree 
 - SVM
 
  I will compare each algorithm and select the best one and the evaluation metrics would be accuracy. I am also planning to predict the best model using Confusion Matrix.
