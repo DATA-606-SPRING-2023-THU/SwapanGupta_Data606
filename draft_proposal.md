@@ -69,5 +69,5 @@ My plan of action is to analyze the data first, research various types of ML mod
 I intend to observe and learn how ML model creation process looks, how to research various models, create them and select the best one out of them.
 
 ## References
-https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
-https://ieeexplore.ieee.org/document/9793061
+- https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
+- https://ieeexplore.ieee.org/document/9793061
