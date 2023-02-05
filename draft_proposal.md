@@ -57,6 +57,6 @@ I will use classification techniques like:
 - Decision tree etc
 - SVM
 
-  I will compare each algorithm and select the best one.
+ I will compare each algorithm and select the best one.
 
 
