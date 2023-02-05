@@ -26,36 +26,36 @@ The dataset has 1000 units of analysis
 #### _6.What variables/measures do you plan to use in your analysis_
 
 **Below are the variables I am considering for analysis:
--Age
--Gender
--Air Pollution 
--Alcohol use
--Dust Allergy
--OccuPational Hazards
--Genetic Risk
--chronic Lung Disease
--Balanced Diet
--Obesity
--Smoking
--Passive Smoker
--Chest Pain
--Coughing of Blood
--Fatigue
--Weight Loss
--Shortness of Breath
--Wheezing
--Swallowing Difficulty
--Clubbing of Finger Nails
--Frequent Cold
--Dry Cough
--Snoring
+- Age
+- Gender
+- Air Pollution 
+- Alcohol use
+- Dust Allergy
+- OccuPational Hazards
+- Genetic Risk
+- chronic Lung Disease
+- Balanced Diet
+- Obesity
+- Smoking
+- Passive Smoker
+- Chest Pain
+- Coughing of Blood
+- Fatigue
+- Weight Loss
+- Shortness of Breath
+- Wheezing
+- Swallowing Difficulty
+- Clubbing of Finger Nails
+- Frequent Cold
+- Dry Cough
+- Snoring
 
 #### _7.What kinds of techniques/models do you plan to use_
 I will be using dimensionality reduction techniques as the number of columns are more and rows a are less
 I will use classification techniques like
-	-Logistic regression
-	-Decision tree etc
-	-SVM
+	- Logistic regression
+	- Decision tree etc
+	- SVM
 I will compare each algorithm and select the best one.
 
 
