@@ -17,8 +17,8 @@ How can I handle data with more dimensionality?
 
 #### _4. Where do you get the data to analyze and help answer your questions_
 ##### DataSource: https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
-Lung Cancer Detection is taken fro Kaggle and the Dataset consist of about 1000 rows and 26 columns. The Dataset can be downloaded and be added to github for further use.
-Dataset consists of Numeric values and Categorical Values.
+- Lung Cancer Detection is taken fro Kaggle and the Dataset consist of about 1000 rows and 26 columns. The Dataset can be downloaded and be added to github for further use.
+- Dataset consists of Numeric values and Categorical Values.
 
 #### _5. What will be your unit of analysis_
 The unit of analysis is a patient
