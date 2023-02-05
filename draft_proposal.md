@@ -17,7 +17,7 @@ These days, number of patients having lung related problems are increasing. And 
 
 #### _4. Where do you get the data to analyze and help answer your questions_
 ##### DataSource: https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
-- Lung Cancer Detection is taken fro Kaggle and the Dataset consist of about 1000 rows and 26 columns. The Dataset can be downloaded and be added to github for further use.
+- Lung Cancer Detection is taken from Kaggle and the Dataset consist of about 1000 rows and 26 columns. The Dataset can be downloaded and be added to github for further use.
 - Dataset consists of columns like Age which have Numeric values and columns like Gender, Air Pollution and all the other Columns which have Categorical Values.
 
 #### _5. What will be your unit of analysis_
@@ -58,7 +58,7 @@ I will use classification techniques like:
 - Decision tree etc
 - SVM
 
- I will compare each algorithm and select the best one and the evaluation metrics would be accuracy. I am also planing to predict the best model using Confusion Matrix.
+ I will compare each algorithm and select the best one and the evaluation metrics would be accuracy. I am also planning to predict the best model using Confusion Matrix.
  
  
  #### _8.How do you plan to develop/apply ML and how you evaluate/compare the performance of the models?_
