@@ -25,7 +25,7 @@ The dataset has 1000 units of analysis
 
 #### _6.What variables/measures do you plan to use in your analysis_
 
-**Below are the variables I am considering for analysis:
+** Below are the variables I am considering for analysis:
 - Age
 - Gender
 - Air Pollution 
@@ -52,10 +52,10 @@ The dataset has 1000 units of analysis
 
 #### _7.What kinds of techniques/models do you plan to use_
 I will be using dimensionality reduction techniques as the number of columns are more and rows a are less
-I will use classification techniques like
-	- Logistic regression
-	- Decision tree etc
-	- SVM
+I will use classification techniques like:
+- Logistic regression
+- Decision tree etc
+- SVM
 I will compare each algorithm and select the best one.
 
 
