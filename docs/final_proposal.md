@@ -24,7 +24,7 @@ These days, number of patients having lung related problems are increasing. And 
 The unit of analysis is a patient
 The dataset has 1000 units of analysis which consists of data of different Patients with Patient ID.
 I will also be comparing the attributes present in the Dataset based on Gentic Risk, Air Polution and some of the important variables which more effects the people and will visualize them by providing graphs using plotly express or Matplotlib.
-I will be predicting the cancer level which is mentioned in the last column "Level" using Classification.
+- I will be predicting the cancer level which is mentioned in the last column "Level" using Classification.
 
 #### _6.What variables/measures do you plan to use in your analysis_
 
