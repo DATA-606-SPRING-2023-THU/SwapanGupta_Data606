@@ -46,7 +46,7 @@ Below are the variables I am considering for analysis
 
 # Exploratory Data analysis:
 ## Label distribution:
-<img width="809" alt="image" src="https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Label%20Distribution.png?raw=true">
+<img width="600" alt="image" src="https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Label%20Distribution.png?raw=true">
 
 Here, the data is almost equally distributed, This is good for using classification models.
 ## Distribution of Patient Ages
