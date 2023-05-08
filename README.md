@@ -11,7 +11,6 @@ https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl
 
 ![Image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Dataset.png?raw=true)
 
-- The unit of analysis is a patient
 - The dataset has 1000 units of analysis
 # Features:
 Below are the variables I am considering for analysis
@@ -41,6 +40,7 @@ Below are the variables I am considering for analysis
 
 # Exploratory Data analysis:
 ## Label distribution:
+![Image](Label%20Distribution.png)
 Here, the data is almost equally distributed, This is good for using classification models.
 
 ## Scatter plot of the features:
