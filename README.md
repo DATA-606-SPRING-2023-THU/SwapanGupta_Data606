@@ -57,14 +57,16 @@ Here, we can see that age group between 33 to 36 are mostly affected by lung can
 <img width="500" alt="image" src="https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/download.png?raw=true">
 
 Here, we can see how the patients are distriuted and also notice the decision boundary. Some medium and low risk patients are very near. However this could happen after using PCA which results in loss of information and hopefully we can achieve to set a good boundary after apply ML models on more than 2D level
-# Preprocessing:
+# Preprocessing
 For further analysis we need to preprocess the data. In our data we can observe that all the values are positives and there are no string values.
-## Scaling:
+## Scaling
 MinMax scaling is a data preprocessing technique used to transform numeric data into a specific range, typically between 0 and 1. 
 This ensures that all data points are scaled proportionally to each other, without distorting the relative differences between them.
+
 ![image](https://user-images.githubusercontent.com/89816922/236922099-88a0ea19-ad12-4593-9ede-66903ac2a64b.png)
+
 After normalizing we can observe that the data is scaled in between 0 and 1.
-## One Hot Encoding:
+## One Hot Encoding
 One hot encoding is a process of converting categorical information into a format that can be used by Machine learning algorithms.
 The target variable contains 3 still values low, medium and high.
 The 3 values are vectorized as Low-100, Medium-010, High-001 and the returned sparse matrix is converted to dense matrix by using todense function.
