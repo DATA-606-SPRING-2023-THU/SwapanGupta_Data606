@@ -40,15 +40,24 @@ Below are the variables I am considering for analysis
 
 # Exploratory Data analysis:
 ## Label distribution:
-![Image](Label%20Distribution.png)
+![Image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Label%20Distribution.png?raw=true)
 Here, the data is almost equally distributed, This is good for using classification models.
 
-## Scatter plot of the features:
+## Distribution of Patient Ages
+![Image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Distribution%20of%20Patient%20Ages.png?raw=true)
 
+Here, we can see that age group between 33 to 36 are mostly affected by lung cancer.
+
+## Scatter plot of the features:
+![Image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Scatter%20Plot.png?raw=true)
+Here, we can see how the patients are distriuted and also notice the decision boundary. Some medium and low risk patients are very near. However this could happen after using PCA which results in loss of information and hopefully we can achieve to set a good boundary after apply ML models on more than 2D level
 # Preprocessing:
 ## Scaling:
 MinMax scaling is a data preprocessing technique used to transform numeric data into a specific range, typically between 0 and 1. 
 This ensures that all data points are scaled proportionally to each other, without distorting the relative differences between them.
+
+![image](https://user-images.githubusercontent.com/89816922/236922099-88a0ea19-ad12-4593-9ede-66903ac2a64b.png)
+
 ## One Hot Encoding:
 One hot encoding is a process of converting categorical information into a format that can be used by Machine learning algorithms.
 The target variable contains 3 still values low, medium and high.
