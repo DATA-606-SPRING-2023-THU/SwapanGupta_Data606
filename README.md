@@ -47,12 +47,15 @@ Below are the variables I am considering for analysis
 # Exploratory Data analysis:
 ## Label distribution:
 ![Image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Label%20Distribution.png?raw=true)
+
 Here, the data is almost equally distributed, This is good for using classification models.
 ## Distribution of Patient Ages
 ![Image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Distribution%20of%20Patient%20Ages.png?raw=true)
+
 Here, we can see that age group between 33 to 36 are mostly affected by lung cancer.
 ## Scatter plot of the features:
 ![Image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Scatter%20Plot.png?raw=true)
+
 Here, we can see how the patients are distriuted and also notice the decision boundary. Some medium and low risk patients are very near. However this could happen after using PCA which results in loss of information and hopefully we can achieve to set a good boundary after apply ML models on more than 2D level
 # Preprocessing:
 For further analysis we need to preprocess the data. In our data we can observe that all the values are positives and there are no string values.
