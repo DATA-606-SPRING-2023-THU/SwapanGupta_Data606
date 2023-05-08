@@ -118,6 +118,7 @@ We can observe the summary of the model as below:
 ![image](https://user-images.githubusercontent.com/89816922/236924691-ae72182c-cede-43bc-93ad-5d7faa98ba3f.png)
 ![image](https://user-images.githubusercontent.com/89816922/236924743-5dd37221-66d9-44cb-94eb-023f12aa4969.png)
 ![image](https://user-images.githubusercontent.com/89816922/236924779-8a6853f9-0ba6-48bd-8dac-5bd75f8d4b60.png)
+
 This is a case where we should be alarming as many patients as possible. Here, the deciding factor is False negative as it could put the patient at risk. So, we will be considering recall of high-risk patients as the main factor
 As KNN and Logistic regression performed similar in this case, considering other factors like f1 score, I decided to use KNN algorithm for predictions.
 # Conclusion
