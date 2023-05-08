@@ -54,7 +54,7 @@ Here, the data is almost equally distributed, This is good for using classificat
 
 Here, we can see that age group between 33 to 36 are mostly affected by lung cancer.
 ## Scatter plot of the features:
-<img width="500" alt="image" src="https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Scatter%20Plot.png?raw=true">
+<img width="500" alt="image" src="https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/download.png?raw=true">
 
 Here, we can see how the patients are distriuted and also notice the decision boundary. Some medium and low risk patients are very near. However this could happen after using PCA which results in loss of information and hopefully we can achieve to set a good boundary after apply ML models on more than 2D level
 # Preprocessing:
