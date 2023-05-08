@@ -11,5 +11,31 @@ https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl
 
 - The unit of analysis is a patient
 - The dataset has 1000 units of analysis
+# Features:
+Below are the variables I am considering for analysis
+- Age
+- Gender
+- Air Pollution
+- Alcohol use
+- Dust Allergy
+- OccuPational Hazards
+- Genetic Risk
+- chronic Lung Disease
+- Balanced Diet
+- Obesity
+- Smoking
+- Passive Smoker
+- Chest Pain
+- Coughing of Blood
+- Fatigue
+- Weight Loss
+- Shortness of Breath
+- Wheezing
+- Swallowing Difficulty
+- Clubbing of Finger Nails
+- Frequent Cold
+- Dry Cough
+- Snoring
+
 
 
