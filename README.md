@@ -8,5 +8,4 @@ However, it is costly and difficult to perform cancer tests to all these people.
 # Data Collection
 The data has been collected from the below link:
 https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
-![image](https://user-images.githubusercontent.com/89816922/236856232-950d4720-3006-41c2-9650-686ee5dd9bbe.png)
 
