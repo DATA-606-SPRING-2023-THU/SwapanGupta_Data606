@@ -9,3 +9,7 @@ However, it is costly and difficult to perform cancer tests to all these people.
 The data has been collected from the below link:
 https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
 
+- The unit of analysis is a patient
+- The dataset has 1000 units of analysis
+
+
