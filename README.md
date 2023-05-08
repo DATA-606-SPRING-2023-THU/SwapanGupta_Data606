@@ -59,6 +59,43 @@ Models are trained and analyzed
 The confusion matrix is drawn for analysis
 
 ## K - nearest neighbors:
+- K-nearest neighbors (KNN) is a type of supervised learning algorithm.
+- It makes predictions based on the similarity of input data to labeled examples in a training dataset.
+- The algorithm records all of the labels and training examples during training.
+- KNN locates the k nearest neighbors in the training data and gives the majority label among them to the input to create a prediction for a new input.
+KNN has been performed with different values for k and the respective accuracy values are plotted as below:
+
+- We can see how accuracy increased until k is 3 and decreased after k is 7. Similar case was oserved with different proportions of testsets with different random states. So taking k as 5 which was the mean in many cases.
+- By taking k as 5 validations are performed and the results are given in results section.
+## Decision tree:
+- Decision tree is a supervised learning algorithm used for multi-label classification tasks.
+- It builds a tree-like model to classify the input data based on the features.
+- The tree is constructed recursively by splitting the input space based on the feature values that maximize the information gain or minimize the impurity.
+Each leaf node of the tree represents a label combination, and the path from the root to a leaf node determines the label assignment
+
+The obtained decision tree was
+
+## Logistic regression:
+- Logistic regression is a supervised learning algorithm used for binary or multi-class classification tasks.
+- It models the relationship between the input features and the probability of the output label.
+- The approach calculates the input feature coefficients that maximize the likelihood of the labels that were observed in the training set.
+The likelihood of each class is calculated during prediction, and the output label is given to the class with the highest probability.
+We can observe the summary of the model as below:
+
+## Loss and Accuracy curves
+
+
+
+
+This is a case where we should be alarming as many patients as possible. Here, the deciding factor is False negative as it could put the patient at risk. So, I will be considering recall of high-risk patients as the main factor
+As KNN and Logistic regression performed similar in this case, considering other factors like f1 score, I decided to use KNN algorithm for predictions.
+
+
+# Conclusion
+
+In conclusion, applying automated models to detect lung cancer will reduce the efforts of doctors very much and thus the doctors will be able to concentrate on treating the people who require it.
+The availability and caliber of the data, as well as the thorough selection and fine-tuning of machine learning algorithms, are what determine whether such a project is successful. A lung cancer detection model could potentially save lives by detecting cancer sooner and enhancing treatment outcomes with the correct tools and knowledge.
+
 
 
 
