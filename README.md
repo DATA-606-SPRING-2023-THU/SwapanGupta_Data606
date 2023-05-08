@@ -1,7 +1,11 @@
-# UMBC Data Science Capstone Project
+# Lung Cancer Detection 
+#  DATA_606_UMBC Data Science Capstone Project- Chaojie Wang
 **Author:** Swapan Gupta Chollati\
 **Semester:** Spring 2023
+
 [Lung Cancer Detection Presentation link](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/docs/Lung%20Cancer%20Detection.pptx)
+[Youtube Link]()
+
 # Introduction
 Every year, millions of people die from lung cancer, making early detection is essential for effective treatment. The number of individuals experiencing issues with their lungs is rising today and the number of people who are susceptible to lung cancer is growing for a variety of reasons. 
 
