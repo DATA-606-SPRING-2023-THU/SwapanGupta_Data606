@@ -37,5 +37,29 @@ Below are the variables I am considering for analysis
 - Dry Cough
 - Snoring
 
+# Exploratory Data analysis:
+## Label distribution:
+Here, the data is almost equally distributed, This is good for using classification models.
+
+## Scatter plot of the features:
+
+# Preprocessing:
+## Scaling:
+MinMax scaling is a data preprocessing technique used to transform numeric data into a specific range, typically between 0 and 1. 
+This ensures that all data points are scaled proportionally to each other, without distorting the relative differences between them.
+## One Hot Encoding:
+One hot encoding is a process of converting categorical information into a format that can be used by Machine learning algorithms.
+The target variable contains 3 still values low, medium and high.
+The 3 values are vectorized as Low-100, Medium-010, High-001 and the returned sparse matrix is converted to dense matrix by using todense function.
+# Models:
+Models are trained and analyzed
+- K- nearest neighbors
+- Decision tree
+- Logistic regression
+The confusion matrix is drawn for analysis
+
+## K - nearest neighbors:
+
+
 
 
