@@ -81,8 +81,10 @@ The confusion matrix is drawn for analysis
 - It makes predictions based on the similarity of input data to labeled examples in a training dataset.
 - The algorithm records all of the labels and training examples during training.
 - KNN locates the k nearest neighbors in the training data and gives the majority label among them to the input to create a prediction for a new input.
-KNN has been performed with different values for k and the respective accuracy values are plotted as below:
+KNN has been performed with different values for k and the respective accuracy values are plotted as below
+
 ![image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/KNN.png?raw=true)
+
 - We can see how accuracy increased until k is 3 and decreased after k is 7. Similar case was oserved with different proportions of testsets with different random states. So taking k as 5 which was the mean in many cases.
 - By taking k as 5 validations are performed and the results are given in results section.
 ## Confusion Matrix for KNN
