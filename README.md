@@ -151,8 +151,12 @@ High:
 
 ![image](https://user-images.githubusercontent.com/89816922/236924779-8a6853f9-0ba6-48bd-8dac-5bd75f8d4b60.png)
 
+# Results
+![image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Results.png?raw=true)
+
 This is a case where we should be alarming as many patients as possible. Here, the deciding factor is False negative as it could put the patient at risk. So, we will be considering recall of high-risk patients as the main factor
 As KNN and Logistic regression performed similar in this case, considering other factors like f1 score, I decided to use KNN algorithm for predictions.
+
 # Conclusion
 - In conclusion, applying automated models to detect lung cancer will reduce the efforts of doctors very much and thus the doctors will be able to concentrate on treating the people who require it.
 - I have trained 3 Models KNN, Logistic Regression, Decision Tree and out of which KNN is the best performed model.
