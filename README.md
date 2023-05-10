@@ -98,9 +98,12 @@ KNN has been performed with different values for k and the respective accuracy v
 - Decision tree is a supervised learning algorithm used for multi-label classification tasks.
 - It builds a tree-like model to classify the input data based on the features.
 - The tree is constructed recursively by splitting the input space based on the feature values that maximize the information gain or minimize the impurity.
-Each leaf node of the tree represents a label combination, and the path from the root to a leaf node determines the label assignment
+Each leaf node of the tree represents a label combination, and the path from the root to a leaf node determines the label assignment.
+
 The obtained decision tree was
+
 ![image](https://user-images.githubusercontent.com/89816922/236923273-0b5482f0-1ef1-46b0-ab16-a25f64f2a650.png)
+
 ### Conditions of Decision Tree
 ![image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/DT%20Conditions.png?raw=true)
 
