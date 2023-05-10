@@ -1,7 +1,7 @@
 # Lung Cancer Detection 
 #  DATA_606_UMBC Data Science Capstone Project- Chaojie Wang
 **Author:** Swapan Gupta Chollati\
-**Semester:** Spring 2023
+**Semester:** Spring 2023\
 **Campus ID:** RJ29255
 
 [Lung Cancer Detection Presentation link](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/docs/Lung%20Cancer%20Detection.pptx)
