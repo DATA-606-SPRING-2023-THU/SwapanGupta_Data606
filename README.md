@@ -116,8 +116,17 @@ The obtained decision tree was
 ![image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/DT%20Conditions.png?raw=true)
 
 ## Confusion Matrix of Decision Tree
+
+Low:
+
 ![image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/DT%20Low.png?raw=true)
+
+Medium:
+
 ![image](https://user-images.githubusercontent.com/89816922/236923782-cef4b76a-dfa6-4a17-956c-769e7c3c6949.png)
+
+High:
+
 ![image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/DT%20High.png?raw=true)
 
 ## Logistic regression
@@ -130,8 +139,16 @@ We can observe the summary of the model as below:
 ## Loss and Accuracy curves
 ![image](https://user-images.githubusercontent.com/89816922/236924137-0003857a-032e-4d5d-8046-ca1deeb530ff.png)
 ## Confusion Matrix of Logistic Regression
+Low:
+
 ![image](https://user-images.githubusercontent.com/89816922/236924691-ae72182c-cede-43bc-93ad-5d7faa98ba3f.png)
+
+Medium:
+
 ![image](https://user-images.githubusercontent.com/89816922/236924743-5dd37221-66d9-44cb-94eb-023f12aa4969.png)
+
+High:
+
 ![image](https://user-images.githubusercontent.com/89816922/236924779-8a6853f9-0ba6-48bd-8dac-5bd75f8d4b60.png)
 
 This is a case where we should be alarming as many patients as possible. Here, the deciding factor is False negative as it could put the patient at risk. So, we will be considering recall of high-risk patients as the main factor
