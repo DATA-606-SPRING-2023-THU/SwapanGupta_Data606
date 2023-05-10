@@ -155,7 +155,7 @@ This is a case where we should be alarming as many patients as possible. Here, t
 As KNN and Logistic regression performed similar in this case, considering other factors like f1 score, I decided to use KNN algorithm for predictions.
 # Conclusion
 - In conclusion, applying automated models to detect lung cancer will reduce the efforts of doctors very much and thus the doctors will be able to concentrate on treating the people who require it.
-- I have trained 3 Models KNN, Logistic Regression, Decision Tree and ou of which KNN is the best performed model.
+- I have trained 3 Models KNN, Logistic Regression, Decision Tree and out of which KNN is the best performed model.
 - f1 score of KNN was about 0.99,0.90.0.92 and precision was 0.98,0.99,0.90 for High, Low and Medium respectively
 - The availability and caliber of the data, as well as the thorough selection and fine-tuning of machine learning algorithms, are what determine whether such a project is successful. A lung cancer detection model could potentially save lives by detecting cancer sooner and enhancing treatment outcomes with the correct tools and knowledge.
 
