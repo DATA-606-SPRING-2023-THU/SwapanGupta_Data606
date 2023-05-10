@@ -13,7 +13,8 @@ Every year, millions of people die from lung cancer, making early detection is e
 However, it is costly and difficult to perform cancer tests to all these people. So a model which can detect lung cancer just by inputting few identifiable things would reduce the cost a lot by reducing the number of patients to test. By leveraging advanced techniques in deep learning, we hope to create a tool that can help doctors make more informed decisions and improve patient outcomes
 # Data Collection
 The data has been collected from the below link:
-https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
+
+[Dataset Link](https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data)
 
 ![Image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Dataset.png?raw=true)
 
