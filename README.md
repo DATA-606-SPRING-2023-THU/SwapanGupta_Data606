@@ -4,9 +4,11 @@
 **Semester:** Spring 2023\
 **Campus ID:** RJ29255
 
-[Lung Cancer Detection Presentation link](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/docs/Lung%20Cancer%20Detection.pptx)
+[capstone.pptx](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/docs/Lung%20Cancer%20Detection.pptx)
 
 [Youtube Link]()
+
+[capstone.ipynb](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/src/DATA_606_Capstone_Lung_Cancer_detection.ipynb)
 
 # Introduction
 Every year, millions of people die from lung cancer, making early detection is essential for effective treatment. The number of individuals experiencing issues with their lungs is rising today and the number of people who are susceptible to lung cancer is growing for a variety of reasons. 
