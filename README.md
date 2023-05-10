@@ -137,7 +137,7 @@ The likelihood of each class is calculated during prediction, and the output lab
 We can observe the summary of the model as below:
 ![image](https://user-images.githubusercontent.com/89816922/236924073-5d585645-1125-451f-be94-559684b28d9d.png)
 ## Loss and Accuracy curves
-![image](https://user-images.githubusercontent.com/89816922/236924137-0003857a-032e-4d5d-8046-ca1deeb530ff.png)
+![image](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/images/Loss_Curves.png?raw=true)
 ## Confusion Matrix of Logistic Regression
 Low:
 
