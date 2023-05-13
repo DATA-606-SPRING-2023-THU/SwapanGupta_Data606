@@ -169,12 +169,12 @@ As KNN and Logistic regression performed similar in this case, considering other
 
 - Dataset: https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
 
-- Sklearn.linear_model.logisticregression. scikit. (n.d.). Retrieved May 11, 2022, from 
+- Sklearn.linear_model.logisticregression. scikit. (n.d.). Retrieved May 11, 2023, from 
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
-- Sklearn.ensemble.randomforestclassifier. scikit. (n.d.). Retrieved May 11, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+- Sklearn.ensemble.randomforestclassifier. scikit. (n.d.). Retrieved May 11, 2023, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
-- Supervised learning. scikit. (n.d.). Retrieved May 11, 2022, from 
+- Supervised learning. scikit. (n.d.). Retrieved May 11, 2023, from 
 https://scikit-learn.org/stable/supervised_learning.html
 
 
