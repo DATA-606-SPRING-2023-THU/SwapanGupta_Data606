@@ -6,7 +6,7 @@
 
 [capstone.pptx](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/docs/Lung%20Cancer%20Detection.pptx)
 
-[Youtube Link]()
+[Youtube Link](https://www.youtube.com/watch?v=OsY5AjyFYKM&t=103s)
 
 [capstone.ipynb](https://github.com/SwapanGupt/SwapanGupta_Data606/blob/main/src/DATA_606_Capstone_Lung_Cancer_detection.ipynb)
 
@@ -165,7 +165,16 @@ As KNN and Logistic regression performed similar in this case, considering other
 - f1 score of KNN was about 0.99,0.90.0.92 and precision was 0.98,0.99,0.90 for High, Low and Medium respectively
 - The availability and caliber of the data, as well as the thorough selection and fine-tuning of machine learning algorithms, are what determine whether such a project is successful. A lung cancer detection model could potentially save lives by detecting cancer sooner and enhancing treatment outcomes with the correct tools and knowledge.
 
+# References
 
+- Dataset: https://www.kaggle.com/code/sripadkarthik/lung-cancer-prediction-using-ml-and-dl/data
 
+- Sklearn.linear_model.logisticregression. scikit. (n.d.). Retrieved May 11, 2022, from 
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+- Sklearn.ensemble.randomforestclassifier. scikit. (n.d.). Retrieved May 11, 2022, from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+- Supervised learning. scikit. (n.d.). Retrieved May 11, 2022, from 
+https://scikit-learn.org/stable/supervised_learning.html
 
 
