@@ -1,1 +1,1 @@
-## This folder contais the source codes
+## This folder contains the source codes
